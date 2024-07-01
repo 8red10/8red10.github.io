@@ -3,7 +3,7 @@
 
 ## Description
 
-This is the GitHub repository for my personal website. Website can be 
+This is the GitHub repository for my personal website. Site can be 
 found <a href="https://8red10.github.io/" title="personal website">here</a>.
 
 
